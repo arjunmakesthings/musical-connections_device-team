@@ -1,0 +1,3 @@
+- download the esp32 library. 
+- flash code using the esp32-s3 model; on the usb port. 
+- the right side port is used to primarily communicate with the board, and the left side one is to change more boards together with the uart protocol. 
